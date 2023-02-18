@@ -55,3 +55,26 @@ scp -rp 400  My files > Downloads > eclipse-workspace > Calculator  ubuntu@ec2-5
 scp -rp  My files > Downloads > eclipse-workspace > Calculator  ubuntu@ec2-52-198-102-6.ap-northeast-1.compute.amazonaws.com: > opt
 scp -rp -i Myfiles>Linuxfiles>key3.pem Myfiles>Downloads>eclipse-workspace>Calculator ubuntu@ec2-52-198-102-6.ap-northeast-1.compute.amazonaws.com
 scp -rp -i My files>Linuxfiles>key3.pem My files>Downloads>eclipse-workspace>Calculator ubuntu@ec2-52-198-102-6.ap-northeast-1.compute.amazonaws.com:>opt
+pwd
+ls
+rm -rf *
+ls
+clear
+ls
+mkdir MyProject
+git init
+vi .gitignore
+gid add.
+git add.
+git add .
+git commit -m "changes made as per assignment"
+git remote add origin https://github.com/JaganPothina/My-repository.git
+git push origin main
+mkdir Myproject
+ls
+git init
+vi .gitignore
+git commit -m "changes made as per assignment"
+git remote add origin https://github.com/JaganPothina/My-repository.git
+git branch -M main
+git push -u origin main
