@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1676625741,,"wq!"
+|2,0,1676701845,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,26 @@
 # Registers:
 
 # File marks:
-'0  3  8  ~/.gitignore
-|4,48,3,8,1676625741,"~/.gitignore"
+'0  3  7  ~/.gitignore
+|4,48,3,7,1676701845,"~/.gitignore"
+'1  3  8  ~/.gitignore
+|4,49,3,8,1676625741,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  3  7  ~/.gitignore
+|4,39,3,7,1676701845,"~/.gitignore"
 -'  3  8  ~/.gitignore
 |4,39,3,8,1676625741,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1676625688,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1676625688,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1676625733	0
-	"	3	8
-	^	3	9
+	*	1676701833	0
+	"	3	7
+	^	3	8
 	.	3	8
 	+	3	8
